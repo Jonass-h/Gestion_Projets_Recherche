@@ -15,11 +15,14 @@ Sachant qu'on a utilisé comme technologies la pile MERN (Mongo Express React No
 **Server:** Node, Express, MongoDB
 
 
-## Installation
-
+## Run Locally
 Vous devez installer NodeJS et MongoDB avec des versions récentes
 
+Cloner le project
+
 ```bash
+  git clone https://github.com/younes-h/Gestion_Projets_Recherche.git
+  cd my-Gestion_Projets_Recherche
   cd client/
   npm i 
   npm run build
