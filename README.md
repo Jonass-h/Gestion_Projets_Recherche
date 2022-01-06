@@ -42,17 +42,17 @@ Vous devez installer NodeJS et MongoDB avec des versions récentes
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-45-12.png)
 ## Login
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-45-05.png)
-## 
+## Home page
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-44-55.png)
-##
+## Ajouter un projet
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-45-30.png)
-##
+## Ajouter d'autre projet
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-46-10.png)
-##
+## La BDD sous MongoDB Compass (visualisation de la BDD mongoDB)
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-46-37.png)
-##
+## Visualisation des utilisateurs
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-47-10.png)
-##
+## Visualisation à l'aide de l'extension mongoDG au niveau de VSCode
 ![](https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2001-02-09.png)
 
 
