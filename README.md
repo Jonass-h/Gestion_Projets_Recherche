@@ -1,11 +1,9 @@
 
 # Gestion des projets de recherche
 
-Notre projet sert à mettre en place les connaissance aquise dans le cours des architectures orienté services 
-à savoir les services web REST dont l'authentification et les operations de base CRUD et la fonction de recherche.
-Sachant qu'on a utilisé comme technologies la pile MERN (Mongo Express React NodeJs) qui de plus en plus populaire car elle facilite le developement fullstack avec un seul langage de programmation qui est le javascript.
-
-
+Notre projet sert à mettre en place les connaissance acquise dans le cours des architectures orienté services 
+à savoir les services web REST dont l'authentification et les opérations de base CRUD et la fonction de recherche.
+Sachant qu'on a utilisé comme technologies la pile MERN (Mongo Express React NodeJs) qui est de plus en plus populaire car elle facilite le développement fullstack avec un seul langage de programmation qui est le javascript.
 
 ## Tech Stack
 
@@ -16,7 +14,7 @@ Sachant qu'on a utilisé comme technologies la pile MERN (Mongo Express React No
 
 ## Installation
 
-Vous devez installez NodeJS et MongoDB avec des versions recentes
+Vous devez installer NodeJS et MongoDB avec des versions récentes
 
 ```bash
   cd client/
@@ -34,14 +32,13 @@ Vous devez installez NodeJS et MongoDB avec des versions recentes
 - Modification des projets
 - Affichage des projets des projets
 - Recherche dans les projets récupéré
-- Registration des utilisateur
+- Registration d'utilisateur
 - Login et Logout des utilisateur 
 - Sécurisation des routes (API routes) ou les routes privées avec les JWT(Json Web Token)
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+https://github.com/younes-h/Gestion_Projets_Recherche/blob/main/assets/Screenshot%20from%202022-01-06%2000-45-12.png
 
 
 ## Authors
