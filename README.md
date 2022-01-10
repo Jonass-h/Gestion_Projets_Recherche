@@ -22,7 +22,7 @@ Cloner le project
 
 ```bash
   git clone https://github.com/younes-h/Gestion_Projets_Recherche.git
-  cd my-Gestion_Projets_Recherche
+  cd path/to/repository
   cd client/
   npm i 
   npm run build
